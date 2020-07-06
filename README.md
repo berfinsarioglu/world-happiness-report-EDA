@@ -1,2 +1,2 @@
 # world-happiness-report-EDA
-EDA Project with World Happiness Report 2015 data 
+I visualized World Happiness Report 2015 data using python jupyter. 
